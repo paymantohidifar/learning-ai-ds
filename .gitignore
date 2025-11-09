@@ -2,11 +2,14 @@
 machine-learning/ml-specialization-coursera/course-1/materials/
 machine-learning/ml-specialization-coursera/course-2/materials/
 machine-learning/ml-specialization-coursera/course-3/materials/
-
+machine-learning/deep-learning-specialization-coursera/course-1/materials/
+machine-learning/deep-learning-specialization-coursera/course-2/materials/
+machine-learning/deep-learning-specialization-coursera/course-3/materials/
+machine-learning/deep-learning-specialization-coursera/course-4/materials/
+machine-learning/deep-learning-specialization-coursera/course-5/materials/
 
 ## certificates
 certificate/
-
 
 ## Jupyter temporary files
 .ipynb_checkpoints/
