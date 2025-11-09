@@ -1,0 +1,13 @@
+## lecture materials
+machine-learning/ml-specialization-coursera/course-1/materials/
+machine-learning/ml-specialization-coursera/course-2/materials/
+machine-learning/ml-specialization-coursera/course-3/materials/
+
+
+## certificates
+certificate/
+
+
+## Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
